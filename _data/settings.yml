@@ -30,12 +30,12 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Monica Hilton
+  author__name: John Torrens
   author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
   author__avatar: '/images/01-1.jpg'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/johnmtorrens/"}
 - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 - {icon: "ion-logo-instagram", link: "https://instagram.com"}
 - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
@@ -48,9 +48,9 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm Monica. I will create design that can give you value
-  hero__description: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
-  hero__image: '/images/01.jpg'
+  hero__title: I'm John Torrens Entrepreneur, Educator, TEDx Speaker, Author
+  hero__description: Professor, entrepreneur, and executive, leading ventures in therapy services and teaching entrepreneurship at Syracuse University for 15+ years.
+  hero__image: '/images/John-Torrens.jpg'
 
 
 #-------------------------------
@@ -108,7 +108,7 @@ testimonial__items:
 #-------------------------------
 # Blog Section
 blog__settings:
-  blog__title: Recent Posts
+  blog__title: News
   blog__description:
 
 
