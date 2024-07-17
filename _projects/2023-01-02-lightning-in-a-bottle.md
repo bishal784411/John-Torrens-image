@@ -1,8 +1,8 @@
 ---
-title: The Season To Be Jolly
-date: 2022-01-02 08:01:35 +0300
-subtitle: Letterign
-image: '/images/project-9.jpg'
+title: Lightning In A Bottle
+date: 2024-06-30 08:01:35 +0300
+subtitle: Book
+image: '/images/John/lighteningsquare.png'
 ---
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si table quiduse proactive domination.

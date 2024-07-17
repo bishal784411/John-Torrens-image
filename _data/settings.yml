@@ -23,7 +23,7 @@ menu__settings:
       - url: '/contact/'
         title: 'Contact'
     - title: 'Speaker Request'
-      url: '/blog/'
+      url: '/speaker-request/'
 
 
 
@@ -36,10 +36,9 @@ author:
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/johnmtorrens/"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/watch?v=XdT4DIiX7Nk"}
+- {icon: "ion-md-globe", link: "https://whitman.syracuse.edu/faculty-and-research/faculty-staff-directory/details/jtorrens"}
+
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -69,8 +68,8 @@ mailchimp__button__text: Get updates
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Latest works
-  projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  projects__title: Projects
+  projects__description: Explore John's portfolio of innovative projects, ventures, and achievements
 
 
 #-------------------------------
@@ -143,8 +142,8 @@ footer_menu__settings:
       url: '/blog/'
     - url: '/about/'
       title: 'About'
-    - url: '/contact/'
-      title: 'Contact'
+    - url: '/speaker-request/'
+      title: 'speaker-request'
     - url: '/elements/'
       title: 'Elements'
 
@@ -153,7 +152,34 @@ footer_menu__settings:
 # Contact Settings
 contact:
   email: your@email.com # Add your form_id
-  description: Hilton comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  description: >
+    Thank you for your interest in having Dr. John Torrens as a speaker for your event. Dr. Torrens is an award-winning Professor of Entrepreneurial Practice and a three-time Inc. 5000 entrepreneur with extensive experience in healthcare and education entrepreneurship. With 25 years of leading high-growth companies, expertise in developing high-performing teams, raising capital, and M&A, he brings valuable insights to his speaking engagements. Dr. Torrens is a faculty member at Syracuse University Whitman School of Management, President of Sprout Therapy Group, and an early-stage investor. He has been a TEDx speaker and author, sharing his knowledge on entrepreneurship, strategy, and corporate innovation. Please use the form below to request Dr. Torrens as a speaker for your conference, business, or classroom guest lecture.
+  topics:
+    - title: ADHD as an Entrepreneur’s Superpower.  
+      discription: >
+        ADHD can be very debilitating condition, often resulting in undesirable business and life outcomes.  However, in the context of entrepreneurship, certain types of ADHD have shown to be an incredible advantage if harnessed properly.  In this session you will learn how to maximize the upside while minimizing the downside to allow your natural entrepreneurial abilities to shine.
+    - title: Is your good idea a good business opportunity?  
+      discription: >
+        Many people have great ideas, but how do you know whether those ideas can be viable business opportunities.  Learn a repeatable model to test your ideas for viability before you spend the time, energy, and money launching a business and bringing a product to market.
+    - title:> "Selling your company  Best practices for the best exit." 
+    - title: >
+        Selling your company:  Best practices for the best exit.   
+      discription: >
+        Everyone leaves their company one way or another, so it is important to be intentional about the way you run your business to maximize your inevitable exit.  Learn best practices for the greatest wealth creation strategies that were collected from 50 in-depth interviews of founder/CEOs who have exited their businesses.  Not all exits are equal.  This session will teach you how to maximize yours
+    - title: Growth through mergers and acquisitions  
+      discription: >
+        Regardless of how your company has been funded, growth is necessary.  Organic growth is great, btu there is often an upper limit to how much you can grow organically.  Before you consider taking on a acquisition, learn from someone who has done it several times and teaches it at a leading university.  This session will equip you with the knowledge and skills to approach an M&A strategy for maximum potential.  Learn about the process, best practices, pitfalls and traps to avoid in the highly engaging session.
+    - title: Negotiations and Dealmaking. 
+      discription: >
+        Life is a series of negotiations.  In the context of entrepreneurship, the deals you make, and the deals you don’t, have profound and long-lasting effects.  Learn how to prepare and execute a high impact negotiation from an award-winning professor and master deal maker.  In this session you will learn advanced negotiation concepts and then practice in simulated negotiations for feedback.  Learning to be a better negotiator is best done by doing it!
+    - title: Becoming the CEO of your Own Health 
+      discription: >
+        Entrepreneurs and executive work famously hard, often to their own detriment.  You have dashboards for your business, but probably not for your own health.  Instead of spending a life time creating wealth only to see it evaporate in your final decade while you manage chronic disease that was largely preventable, why not develop your strategic plan to enjoy the fruits of your labor well into your final, healthy decades.
+    - title: Finding joy and happiness in business.    
+      discription: >
+        People all want the same thing:  joy, happiness, love, and a sense of purpose. If everyone wants these things, then the trend toward more anxiety, depression, and less overall enjoyment of life and business is quite curious.  Happy people live on average 7 years longer than unhappy people, and for successful business people, this is great news in terms of getting every bit of joy out of the life you worked so hard for.  This session will teach you the basics of happiness science and how to claim the joy that is already inside you. Learn what the worlds happiest people know and do, and take home practical techniques to feel more happy and joyful every day.
+
+
 
 # NOTE
 # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
