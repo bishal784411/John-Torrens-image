@@ -60,7 +60,7 @@ ted:
 
 #-------------------------------
 # Newsletter
-mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp:  # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
 mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
 mailchimp__input__text: Your email address...
 mailchimp__button__text: Get updates
@@ -122,13 +122,13 @@ blog__settings:
 gallery:
   gallery__images:
     - alt: 'Rest'
-      url: '/images/gallery-1.jpg'
+      url: '/images/John/sproutsquare.png'
     - alt: 'Lifestyle'
-      url: '/images/gallery-2.jpg'
+      url: '/images/John/whitmansquare.png'
     - alt: 'Hobby'
-      url: '/images/gallery-3.jpg'
+      url: '/images/John/lighteningsquare.png'
     - alt: 'Notes'
-      url: '/images/gallery-4.jpg'
+      url: '/images/John/torrensnotiesquare.jpg'
 
 
 #-------------------------------
