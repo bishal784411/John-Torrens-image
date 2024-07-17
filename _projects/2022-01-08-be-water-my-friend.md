@@ -1,7 +1,7 @@
 ---
-title: Be Water My Friend
+title: Vertical Companies
 date: 2022-01-08 08:01:35 +0300
-subtitle: Quotes
+subtitle: Company
 image: '/images/project-3.jpg'
 ---
 
