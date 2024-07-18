@@ -12,18 +12,16 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Speaker Request'
+      url: '/speaker-request/'
+    - title: 'Resume'
+      url: '/resume/'
     - title: 'Projects'
       url: '/projects/'
     - title: 'News'
       url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-    - title: 'Speaker Request'
-      url: '/speaker-request/'
 
 
 
@@ -32,7 +30,7 @@ menu__settings:
 author:
   author__name: John Torrens
   author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
-  author__avatar: '/images/torrensheadshot2023square01.jpg'
+  author__avatar: '/images/torrensheadshot2023square.jpg'
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/johnmtorrens/"}
