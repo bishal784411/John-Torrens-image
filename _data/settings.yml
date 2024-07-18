@@ -134,16 +134,16 @@ footer_menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Speaker Request'
+      url: '/speaker-request/'
+    - title: 'Resume'
+      url: '/resume/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog'
+    - title: 'News'
       url: '/blog/'
-    - url: '/about/'
-      title: 'About'
-    - url: '/speaker-request/'
-      title: 'speaker-request'
-    - url: '/elements/'
-      title: 'Elements'
 
 
 #-------------------------------
