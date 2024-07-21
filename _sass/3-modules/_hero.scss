@@ -18,6 +18,19 @@
   }
 }
 
+.ted__inner {
+  display: flex;
+  align-items: center;
+
+  @media only screen and (max-width: $desktop) {
+    flex-direction: column;
+  }
+
+  @media only screen and (max-width: $mobile) {
+    flex-direction: column-reverse;
+  }
+}
+
 .hero__left {
   width: 50%;
 
@@ -80,6 +93,9 @@
     order: -1;
     max-width: 100%;
   }
+  @media only screen and (max-width: $mobile) {
+    margin-top: 32px;
+  }
 }
 
 .hero__title {
@@ -107,7 +123,12 @@
   @media only screen and (max-width: $desktop) {
     font-size: inherit;
   }
+
+  a {
+    color: var(--brand-color);
+  }
 }
+
 
 .hero__subscribe {
   max-width: 510px;
