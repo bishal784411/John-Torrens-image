@@ -1,7 +1,7 @@
 <!-- begin footer -->
 <footer class="footer">
 
-  <div class="footer__gallery">
+  <!-- <div class="footer__gallery">
     {% if site.data.settings.gallery %}
     <div class="gallery">
       {% for image in site.data.settings.gallery.gallery__images %}
@@ -11,9 +11,9 @@
       {% endfor %}
     </div>
     {% endif %}
-  </div>
+  </div> -->
 
-  <div class="container">
+  <!-- <div class="container">
     <div class="row">
       <div class="col-12">
 
@@ -30,16 +30,7 @@
                     <h3 class="footer__author-name">{{site.data.settings.author.author__name}}</h3>
                     <p class="footer__author-bio">{{site.data.settings.author.author__bio}}</p>
                     {% if site.data.settings.social %}
-                    <div class="social">
-                      <ul class="social__list list-reset">
-                        {% for social in site.data.settings.social %}
-                        <li class="social__item">
-                          <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener"
-                            aria-label="Social link"><i class="ion {{social.icon}}"></i></a>
-                        </li>
-                        {% endfor %}
-                      </ul>
-                    </div>
+                   
                     {% endif %}
                   </div>
                 </div>
@@ -64,13 +55,23 @@
 
       </div>
     </div>
-  </div>
+  </div> -->
 
   <div class="container">
     <div class="row">
       <div class="col col-12">
         <div class="footer__info">
           <div class="footer__info-box">
+            <div class="social">
+              <ul class="social__list list-reset">
+                {% for social in site.data.settings.social %}
+                <li class="social__item">
+                  <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener"
+                    aria-label="Social link"><i class="ion {{social.icon}}"></i></a>
+                </li>
+                {% endfor %}
+              </ul>
+            </div>
             <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/">{{site.data.settings.title}}</a>. Theme By <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>. Website By <a href="relevant-research.com">Relevant Research</a></div>
             <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
           </div>

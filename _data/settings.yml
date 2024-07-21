@@ -2,7 +2,7 @@
 # Site Settings
 title: Dr. John Torrens
 logo: # You can add own logo. For example '/images/logo.png'.
-description: This is a protfolio site of Dr. John Torrens. So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
+description: This is a protfolio site of Dr. John Torrens. 
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -30,10 +30,11 @@ menu__settings:
 author:
   author__name: John Torrens
   author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
-  author__avatar: '/images/torrensheadshot2023square.jpg'
+  author__avatar: '/images/John/torrensnotiesquare.jpg'
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/johnmtorrens/"}
+- {icon: "ion-md-mail", link: "jtorrens@syr.edu"}
 - {icon: "ion-logo-youtube", link: "https://www.youtube.com/watch?v=XdT4DIiX7Nk"}
 - {icon: "ion-md-globe", link: "https://whitman.syracuse.edu/faculty-and-research/faculty-staff-directory/details/jtorrens"}
 
@@ -46,8 +47,19 @@ social:
 # Hero Settings
 hero:
   hero__title: Entrepreneur, Educator, TEDx Speaker, Author
-  hero__description: Professor, entrepreneur, and executive, leading ventures in therapy services and teaching entrepreneurship at Syracuse University for 15+ years.
-  hero__image: '/images/torrensheadshot2023square.jpg'
+  hero__description: >
+    Dr. John Torrens is an award-winning professor and three-time Inc. 5000 entrepreneur with 25 years of leading high-growth companies. John teaches entrepreneurship and strategy at Syracuse University and serves as the President of Sprout Therapy Group. <a target="_blank" href="/about">Learn more</a> about John's work,  <a target = "_blank" href="/speaker-request/">invite him to speak</a> at your event, or buy his book <a target="_blank" href="https://shorturl.at/RQeVv"> Lightning in a Bottle: How Entrepreneurs Can Harness Their ADHD to Win </a>.
+  hero__image: '/images/John/torrensnotiesquare.jpg'
+
+
+book:
+  book__title: >
+    Lightening in Bottle: How Entrepreneurs Can Harness Their ADHD to Win
+  book__description: >
+    <p> Get the book that readers describe as
+    "compelling, insightful, and personal."</p>
+    <p>This book will help entrepreneurs, (or those who love them), discover how to harness their ADHD for maximum creativity, focus, and productivity, while learning how to manage the downsides and eliminate obstacles, so that they can achieve even more success.</p>
+  book__image: '/images/John/lighteningsquare.png'
 
 ted:
   ted__title: Watch John’s TEDx Talk
