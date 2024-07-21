@@ -1,0 +1,15 @@
+.responsive-iframe {
+    width: 560px;
+    height: 315px;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .responsive-iframe {
+      width: 390px;
+      height: 210px;
+    }
+  }
+
+  .forn-title{
+    text-align: center;
+  }

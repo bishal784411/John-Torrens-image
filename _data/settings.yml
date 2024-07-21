@@ -151,7 +151,8 @@ footer_menu__settings:
 contact:
   email: your@email.com # Add your form_id
   description: >
-    Thank you for your interest in having Dr. John Torrens as a speaker for your event. Dr. Torrens is an award-winning Professor of Entrepreneurial Practice and a three-time Inc. 5000 entrepreneur with extensive experience in healthcare and education entrepreneurship. With 25 years of leading high-growth companies, expertise in developing high-performing teams, raising capital, and M&A, he brings valuable insights to his speaking engagements. Dr. Torrens is a faculty member at Syracuse University Whitman School of Management, President of Sprout Therapy Group, and an early-stage investor. He has been a TEDx speaker and author, sharing his knowledge on entrepreneurship, strategy, and corporate innovation. Please use the form below to request Dr. Torrens as a speaker for your conference, business, or classroom guest lecture.
+        <p>John is an experienced speaker with a portfolio of presentations below that fit a wide variety of audiences. If you would like to bring John to your conference, business, or classroom guest lecture, contact him using the form below or book a 1-on-1 meeting directly with John</p>
+        <a target="_blank" href="https://outlook.office.com/bookwithme/user/0850756ce9ac43f685c14d8a8928fb92%40syr.edu?anonymous&isanonymous=true" class="button button--primary">Book Appointment</a>  
   topics:
     - title: ADHD as an Entrepreneur’s Superpower.  
       discription: >
