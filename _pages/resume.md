@@ -8,7 +8,7 @@ permalink: /resume/
 
 ## Professor of Entrepreneurial Practice, Deputy Department Chair, Program Manager of the MS in Entrepreneurship at Syracuse University (Syracuse, New York) -- January 2009 to Present
 
-Summary: Award-winning professor in a top-ranked entrepreneurship program. Teach/develop courses in the undergraduate, graduate, executive education, and on-line programs. Manage the full-time and online programs of the MS Entrepreneurship.
+Summary: Award-winning professor in a top-ranked entrepreneurship program. Teach/develop courses in the undergraduate, graduate, executive education, and on-line programs. Manage the full-time and online programs of the MS Entrepreneurship. [Visit John's faculty page](https://whitman.syracuse.edu/faculty-and-research/faculty-staff-directory/details/jtorrens).
 
 - Increased applications to the MS Entrepreneurship by 400% between 2020 and 2023.
 - Mentored teams with combined competition winnings of over $600,000
