@@ -6,8 +6,9 @@ permalink: /resume/
 
 # WORK EXPERIENCE
 
-## Professor of Entrepreneurial Practice, Deputy Department Chair, Program Manager of the MS in Entrepreneurship at 
-### Syracuse University (Syracuse, New York) -- January 2009 to Present
+## Professor of Entrepreneurial Practice, Deputy Department Chair, Program Manager of the MS in Entrepreneurship 
+### Syracuse University (Syracuse, New York)
+### January 2009 to Present
 
 Summary: Award-winning professor in a top-ranked entrepreneurship program. Teach/develop courses in the undergraduate, graduate, executive education, and on-line programs. Manage the full-time and online programs of the MS Entrepreneurship.
 
