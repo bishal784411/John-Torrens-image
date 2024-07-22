@@ -13,5 +13,5 @@ Dr. Torrens is an award-winning Professor of Entrepreneurial Practice and a thre
     <img src="/images/John/sproutsquare.png" loading="lazy">
     <img src="/images/John/lighteningsquare.png" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <! -- <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em> -->
 </div>
