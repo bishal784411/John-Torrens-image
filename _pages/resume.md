@@ -1,11 +1,10 @@
 ---
 layout: page
-title:
+title: 
 permalink: /resume/
 ---
-# John M. Torrens, Ph.D.
 
-## WORK EXPERIENCE
+# WORK EXPERIENCE
 
 ## Professor of Entrepreneurial Practice, Deputy Department Chair, Program Manager of the MS in Entrepreneurship at Syracuse University (Syracuse, New York) -- January 2009 to Present
 
