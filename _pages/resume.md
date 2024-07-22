@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RESUME
+title:
 permalink: /resume/
 ---
 # John M. Torrens, Ph.D.
