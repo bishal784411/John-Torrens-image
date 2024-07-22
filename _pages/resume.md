@@ -13,7 +13,7 @@ Summary: Award winning professor in a top ranked entrepreneurship program. Teach
 
 - Increased applications to the MS Entrepreneurship by 400% between 2020 and 2023.
 - Mentored teams with combined competition winnings of over $600,000
-- Developed an executive education program for a patron in Saudi Arabia, worth over $1MM over 5 years.
+- Developed an executive education program for a patron in Saudi Arabia, worth over $1M over 5 years.
 - Developed and taught new classes on Founder/CEO Exits and Transitions, Entrepreneurial Deal Making, and
 Entrepreneurship in the Cannabis Industry.
 - Manage the undergraduate and graduate capstone business plan competitions.
@@ -22,7 +22,7 @@ Entrepreneurship in the Cannabis Industry.
 - Consistently high teaching evaluations over a 10-year period.
 - Winner of the prestigious Meredith Teaching Award.
 - Named Deputy Department Chair in 2018
-- Curriculum lead on a $10MM SBA grant to develop and deliver the Boots2Business Curriculum, a 8-week online course and a 2-day workshop that teaches transitioning military service members Delivered to over 40,000 service members since 2013.
+- Curriculum lead on a $10M SBA grant to develop and deliver the Boots2Business Curriculum, a 8-week online course and a 2-day workshop that teaches transitioning military service members Delivered to over 40,000 service members since 2013.
 
 ## Executive Director and Chief Business Development Officer at Sprout Therapy Group (Syracuse, Rochester, and Yorktown Heights) -- August 2020 to Present
 
@@ -37,7 +37,7 @@ Entrepreneurship in the Cannabis Industry.
 
 ## Investor \& Board Member at Saluber MD (Milan, Italy \& Encino, CA) -- October 2018 to March 2020
 
-- Early stage investor and assisted in seed round of $10M. 
+- Early-stage investor and assisted in seed round of $10M. 
 - Consulted on design and development team for the COR X, a medical smartwatch undergoing FDA review. 
 - Developed business plan for Series A capital raise of $25M. 
 - Developed a pipeline of high-quality prospects consisting of large aggregators of patients. 
@@ -60,10 +60,10 @@ Entrepreneurship in the Cannabis Industry.
 
 ## Co-Founder \& President at Liberty Post (Syracuse, NY) -- April 2011 to March 2019 
 
-Summary: Responsible for financial performance, overall strategy, culture, and business development for a company with 300+ employees in 5 cities and 11 locations in a highly regulated industry.  Grew revenue from under $4M in 2011 to $20M in 2018 through organic growth and acquisition. 
+Summary: Responsible for financial performance, overall strategy, culture, and business development for a company with 300+ employees in 5 cities and 11 locations in a highly regulated industry. Grew revenue from under $4M in 2011 to $20M in 2018 through organic growth and acquisition. 
 
 - Led the 2011 founding of Liberty POST through organic start up and small acquisition in upstate NY. 
-- Identified a distressed competitor in 2014 and instead of acquiring it, negotiated the on boarding of 90 employees and all contracts before they closed.  
+- Identified a distressed competitor in 2014 and instead of acquiring it, negotiated the on boarding of 90 employees and all contracts before they closed. 
 - Led the acquisition of two competitors in June and July 2016. 
 - Negotiated the 2017 onboarding of 120 employees and transfer of contracts of a distressed competitor as they were discontinuing operations. 
 - Responsible for 500% growth of Liberty POST over last 4 years. 
@@ -74,7 +74,7 @@ Summary: Responsible for financial performance, overall strategy, culture, and b
 
 ## Founder \& CEO of InterActive Therapy Group (Syracuse, NY) -- August 1995 to August 2010
 
-Summary: Launched, grew, and exited an early childhood rehabilitation and special education company in 1995 and grew to over $10M in revenue and 250 employees in five locations.  Completed a successful exit to strategic buyer in 2008.   
+Summary: Launched, grew, and exited an early childhood rehabilitation and special education company in 1995 and grew to over $10M in revenue and 250 employees in five locations. Completed a successful exit to strategic buyer in 2008. 
 
 - Launched company with $800 in founder’s savings. 
 - Grew the company organically, with no acquisitions, using debt vs. equity. 
@@ -97,7 +97,7 @@ B.A., Psychology
 ## EXECUTIVE EDUCATION DELIVERED
 
 - Entrepreneurship and Opportunity Recognition in the Kingdom of Saudi Arabia (2018 and 2019) Designed and delivered a series of 3-day intensive workshops in collaboration with a local business leader and the SME authority of the Kingdom of Saudi Arabia 
-- Ideation and Opportunity Recognition (Spring 2017):  Designed and delivered a 10-week course for 20 key personnel of KHP Health Systems (parent company of Kinney Drugs). 
+- Ideation and Opportunity Recognition (Spring 2017): Designed and delivered a 10-week course for 20 key personnel of KHP Health Systems (parent company of Kinney Drugs). 
 - Turning Good Ideas into Great Business Opportunities (Spring 2016). Designed and delivered an 8-hour class for employees of St. Joseph’s Hospital Health Care System. 
 
 ## EXECUTIVE EDUCATION ATTENDED
@@ -106,7 +106,7 @@ B.A., Psychology
 - Mergers, Acquisitions and Strategic Transactions (YPO Seminar) 
 - Advanced Negotiation Strategy (YPO Seminar) 
 - Innovation Strategies for Healthcare Companies (YPO Seminar) 
-- Summit 420:  Opportunities in the Cannabis Industry (YPO Seminar) 
+- Summit 420: Opportunities in the Cannabis Industry (YPO Seminar) 
 - Public Speaking Mastery (YPO Seminar) 
 - Forum Facilitator Training (YPO Seminar) 
 - Global Edge Conference for YPO Members 
@@ -115,17 +115,16 @@ B.A., Psychology
 
 ## Young Presidents Organization (YPO)
 
-Summary: YPO is a global peer network of CEOs consisting of 22,000 members in over 125 countries.  Members must meet certain requirements for organizational complexity.  Joined in 2005 and have been involved in local, regional, and international leadership in increasingly responsible positions culminating in my election to the International Board of Directors in 2011 for a 3-year term that expired on June 30, 2015.  Committee appointments included Audit Committee (2011-2012) and Finance Committee (2013). 
+Summary: YPO is a global peer network of CEOs consisting of 22,000 members in over 125 countries. Members must meet certain requirements for organizational complexity. Joined in 2005 and have been involved in local, regional, and international leadership in increasingly responsible positions culminating in my election to the International Board of Directors in 2011 for a 3-year term that expired on June 30, 2015. Committee appointments included Audit Committee (2011-2012) and Finance Committee (2013). 
 
 ## Achievements/Awards 
 
-- ‘CUSE50 Honoree 2023 (Sprout Therapy Group)-- November 2023 
+- ‘CUSE50 Honoree 2023 (Sprout Therapy Group) -- November 2023 
 - Inc. 5000 Honoree 2023 (Sprout Therapy Group) -- August 2023 
-- Inc. 5000 Honoree 2018  (Liberty POST)  --  	August 2018 	 
+- Inc. 5000 Honoree 2018 (Liberty POST) -- 	August 2018 	 
 - TEDx Syracuse University Speaker (How ADHD can be an Entrepreneur’s Superpower) April 2018 
 - YPO Legacy Award given for outstanding contribution to the Northeast US Region -- May 2015 
-- Meredith Teaching Recognition Award Recipient -- April  2014 	 	 
+- Meredith Teaching Recognition Award Recipient -- April 2014 	 	 
 - Outstanding Entrepreneurship Educator Award, Syracuse University -- April 2012 	 
 - Fast Track 50 Recipient for owning one of the 50 fastest growing companies in CNY -- 2005, 2006, 2007
-- Syracuse 40 under 40 -- November 2004  
-
+- Syracuse 40 under 40 -- November 2004
