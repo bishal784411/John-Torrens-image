@@ -9,7 +9,7 @@ permalink: /resume/
 
 ## Professor of Entrepreneurial Practice, Deputy Department Chair, Program Manager of the MS in Entrepreneurship at Syracuse University (Syracuse, New York) -- January 2009 to Present
 
-Summary: Award winning professor in a top ranked entrepreneurship program. Teach/develop courses in the undergraduate, graduate, executive education, and on-line programs. Manage the full time and on-line programs of the MS Entrepreneurship.
+Summary: Award-winning professor in a top-ranked entrepreneurship program. Teach/develop courses in the undergraduate, graduate, executive education, and on-line programs. Manage the full-time and online programs of the MS Entrepreneurship.
 
 - Increased applications to the MS Entrepreneurship by 400% between 2020 and 2023.
 - Mentored teams with combined competition winnings of over $600,000
@@ -22,23 +22,23 @@ Entrepreneurship in the Cannabis Industry.
 - Consistently high teaching evaluations over a 10-year period.
 - Winner of the prestigious Meredith Teaching Award.
 - Named Deputy Department Chair in 2018
-- Curriculum lead on a $10M SBA grant to develop and deliver the Boots2Business Curriculum, a 8-week online course and a 2-day workshop that teaches transitioning military service members Delivered to over 40,000 service members since 2013.
+- Curriculum lead on a $10M SBA grant to develop and deliver the Boots2Business Curriculum, an 8-week online course and a 2-day workshop that teaches transitioning military service members Delivered to over 40,000 service members since 2013.
 
-## Executive Director and Chief Business Development Officer at Sprout Therapy Group (Syracuse, Rochester, and Yorktown Heights) -- August 2020 to Present
+## Executive Director & Chief Business Development Officer at Sprout Therapy Group (Syracuse, Rochester, and Yorktown Heights) -- August 2020 to Present
 
 - P&L responsibility for the combined companies, growing profitably from $2M in 2021 to $10M in 2022.
 - Developed the M&A strategy in consultation with the executive team and key financial stakeholders.
 - Create a pipeline of targets and manage the deal flow, including initial outreach and screening/evaluation or targets.
 - Closed acquisitions of Connections Family Centered Therapies and Step by Step Developmental Center within 5 months of letter of intent. 
-- Managed the transaction process, including term sheets and deal points, letters of intent, valuation position, point of contact for negotiating the deal, leading due diligence, managing the work of external consultants such as accountants and lawyers, developing definitive purchase agreements.
+- Managed the transaction process, including term sheets and deal points, letters of intent, valuation position, point of contact for negotiating the deal, leading due diligence, managing the work of external consultants such as accountants and lawyers, and developing definitive purchase agreements.
 - Led the financial and cultural integration of acquisitions into Sprout Therapy Group.
 - Led the application process with NYSED for approval as a Special Class Integrated Setting, adding 3 classrooms and over $1M in annual revenue.
-- Designed new location in Liverpool and led the opening of new administrative offices, outpatient clinic and integrated preschool.
+- Designed a new location in Liverpool and led the opening of new administrative offices, an outpatient clinic, and an integrated preschool.
 
-## Investor \& Board Member at Saluber MD (Milan, Italy \& Encino, CA) -- October 2018 to March 2020
+## Investor & Board Member at Saluber MD (Milan, Italy & Encino, CA) -- October 2018 to March 2020
 
 - Early-stage investor and assisted in seed round of $10M. 
-- Consulted on design and development team for the COR X, a medical smartwatch undergoing FDA review. 
+- Consulted on the design and development team for the COR X, a medical smartwatch undergoing FDA review. 
 - Developed business plan for Series A capital raise of $25M. 
 - Developed a pipeline of high-quality prospects consisting of large aggregators of patients. 
 - Led project teams on strategic partnerships with several large companies such as PartnerRE and Luxotica. 
@@ -47,7 +47,7 @@ Entrepreneurship in the Cannabis Industry.
 - Coordinated effort to update UI/UX on telemedicine app and provider portal. 
 - Prospected, closed and managed a demonstration project with West Virginia School of Osteopathic Medicine to use our platform for medical student labs and clinical exams with over 200 users in 2 days. 
 
-## Investor \& Consultant at Saluber MD (Agoura Hills, CA) -- November 2014 to Present
+## Investor & Consultant at Saluber MD (Agoura Hills, CA) -- November 2014 to Present
 
 - Early stage investor raising an initial round of $1.2M to launch cultivation facility in 2015. 
 - Assisted in government advocacy, attended conferences, and wrote opinion pieces on cannabis industry. 
@@ -58,7 +58,7 @@ Entrepreneurship in the Cannabis Industry.
 - Conceived of Vertical Bioscience as a biotech/nutraceutical company as a way to add value to the parent company. 
 - Researched and developed a model to improve company valuation 3x by repositioning from a pure play cannabis company to a biotech company. 
 
-## Co-Founder \& President at Liberty Post (Syracuse, NY) -- April 2011 to March 2019 
+## Co-Founder & President at Liberty Post (Syracuse, NY) -- April 2011 to March 2019 
 
 Summary: Responsible for financial performance, overall strategy, culture, and business development for a company with 300+ employees in 5 cities and 11 locations in a highly regulated industry. Grew revenue from under $4M in 2011 to $20M in 2018 through organic growth and acquisition. 
 
@@ -72,7 +72,7 @@ Summary: Responsible for financial performance, overall strategy, culture, and b
 - Led the search, adoption, and implementation of a new Electronic Medical Record system. 
 - Consistent record of clean audits by County and State Health Departments as well as State Education Department. 
 
-## Founder \& CEO of InterActive Therapy Group (Syracuse, NY) -- August 1995 to August 2010
+## Founder & CEO of InterActive Therapy Group (Syracuse, NY) -- August 1995 to August 2010
 
 Summary: Launched, grew, and exited an early childhood rehabilitation and special education company in 1995 and grew to over $10M in revenue and 250 employees in five locations. Completed a successful exit to strategic buyer in 2008. 
 
