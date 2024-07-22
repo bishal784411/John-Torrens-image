@@ -9,7 +9,7 @@ Dr. Torrens is an award-winning Professor of Entrepreneurial Practice and a thre
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/John/torrensheadshotsquare2023.jpg" loading="lazy">
+    <img src="/images/John/torrensheadshot2023square.jpg" loading="lazy">
     <img src="/images/John/sproutsquare.png" loading="lazy">
     <img src="/images/John/lighteningsquare.png" loading="lazy">
   </div>
