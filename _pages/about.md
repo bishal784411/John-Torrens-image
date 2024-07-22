@@ -5,28 +5,13 @@ permalink: /about/
 image: '/images/John/torrensheadshot2023.jpg'
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+Dr. Torrens is an award-winning Professor of Entrepreneurial Practice and a three-time Inc. 5000 entrepreneur. He is a healthcare and education entrepreneur with 25 years of leading high-growth companies with experience in developing high-performing teams, raising capital, and both buy/sell side M&A. Dr. Torrens is a faculty member of the Syracuse University Whitman School of Management’s Department of Entrepreneurship and Emerging Enterprises and President of Sprout Therapy Group. He has been an early-stage investor in cannabis companies since 2017. He is a frequent guest speaker and executive education instructor in the areas of entrepreneurship, strategy, and corporate innovation. Dr. Torrens is a TEDx speaker (ADHD as an Entrepreneur’s Superpower), and author of the book Lightning in a Bottle: How Entrepreneurs Can Harness Their ADHD to Win. He is an active member of the Young Presidents Organization (YPO) and served in multiple volunteer leadership positions including a term on the International Board of Directors (2013-2015).
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/105.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
+    <img src="/images/John/torrensheadshotsquare2023.jpg" loading="lazy">
+    <img src="/images/John/sproutsquare.png" loading="lazy">
+    <img src="/images/John/lighteningsquare.png" loading="lazy">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
-
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
-
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
-
-![Sea]({{site.baseurl}}/images/106.jpg)
-*Photo by [Alyssa Strohmann](https://unsplash.com/photos/2r2RUsEU1Aw) on [Unsplash](https://unsplash.com/)*
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
