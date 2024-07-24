@@ -22,7 +22,7 @@
 .logo__link {
   padding: 8px 0;
   font-family: $heading-font-family;
-  font-size: 40px;
+  font-size: 37px;
   line-height: 1;
   font-weight: 800;
   transition: color .25s ease;
@@ -213,7 +213,7 @@
 
   .nav__item {
     display: inline-block;
-    margin-right: 48px;
+    margin-right: 24px;
     margin-bottom: 0;
 
     &:last-child {
@@ -226,7 +226,7 @@
       font-family: $heading-font-family;
       font-size: 20px;
       line-height: 1;
-      font-weight: 700;
+      font-weight: 500;
       transition: color .2s ease;
 
       &::before {
