@@ -54,9 +54,7 @@ book:
   book__title: >
     Lightening in Bottle: How Entrepreneurs Can Harness Their ADHD to Win
   book__description: >
-    <p> Get the book that readers describe as
-    "compelling, insightful, and personal."</p>
-    <p>This book will help entrepreneurs, (or those who love them), discover how to harness their ADHD for maximum creativity, focus, and productivity, while learning how to manage the downsides and eliminate obstacles, so that they can achieve even more success.</p>
+    This book will help entrepreneurs, (or those who love them), discover how to harness their ADHD for maximum creativity, focus, and productivity, while learning how to manage the downsides and eliminate obstacles, so that they can achieve even more success. <a href= "https://www.amazon.com/Lightning-Bottle-Entrepreneurs-Harness-Their/dp/B08SGMZZ6Y/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.N9_ihbq4RpjcCMspezYnAw.dwnwERJrNn5DvxA5xX-EqhMyKD4atUtTPI8zjHVoZ7k&qid=1721567840&sr=1-1"> Get it today</a>.
   book__image: '/images/John/lighteningsquare.png'
 
 ted:
