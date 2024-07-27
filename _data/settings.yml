@@ -14,8 +14,6 @@ menu__settings:
       url: '/'
     - title: 'About'
       url: '/about/'
-    - title: 'Publications'
-      url: '/publications/'
     - title: 'Speaker Request'
       url: '/speaker-request/'
     - title: 'Resume'
