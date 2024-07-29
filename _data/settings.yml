@@ -16,6 +16,8 @@ menu__settings:
       url: '/about/'
     - title: 'Speaker Request'
       url: '/speaker-request/'
+    - title: 'Announcements'
+      url: '/announcements/'
     - title: 'Resume'
       url: '/resume/'
 
