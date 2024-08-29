@@ -41,8 +41,6 @@ Workshop Description: Entrepreneurs and executives work famously hard, often to 
 ### Finding joy and happiness in business.
 Workshop Description: People all want the same thing: joy, happiness, love, and a sense of purpose. If everyone wants these things, then the trend toward more anxiety, depression, and less overall enjoyment of life and business is quite curious. Happy people live on average 7 years longer than unhappy people, and for successful business people, this is great news in terms of getting every bit of joy out of the life you worked so hard for. This session will teach you the basics of happiness science and how to claim the joy that is already inside you. Learn what the world's happiest people know and do, and take home practical techniques to feel more happy and joyful every day.
 
-
-    
     
 
   <form style="margin: 30px 0;" class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/f/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST">

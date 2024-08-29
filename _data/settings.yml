@@ -16,10 +16,10 @@ menu__settings:
       url: '/about/'
     - title: 'Speaker Request'
       url: '/speaker-request/'
+    - title: 'Announcements'
+      url: '/announcements/'
     - title: 'Investments'
       url: '/investments/'
-    - title: 'Resume'
-      url: '/resume/'
 
 
 
