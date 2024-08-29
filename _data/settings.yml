@@ -18,8 +18,8 @@ menu__settings:
       url: '/speaker-request/'
     - title: 'Announcements'
       url: '/announcements/'
-    - title: 'Resume'
-      url: '/resume/'
+    - title: 'Investments'
+      url: '/investments/'
 
 
 
@@ -146,8 +146,8 @@ footer_menu__settings:
       url: '/about/'
     - title: 'Speaker Request'
       url: '/speaker-request/'
-    - title: 'Resume'
-      url: '/resume/'
+    - title: 'Invesments'
+      url: '/investments/'
     - title: 'Projects'
       url: '/projects/'
     - title: 'News'

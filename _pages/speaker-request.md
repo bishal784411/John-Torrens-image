@@ -11,26 +11,7 @@ John is an experienced speaker with a portfolio of presentations below that fit 
 
 [Book Appointment](https://outlook.office.com/bookwithme/user/0850756ce9ac43f685c14d8a8928fb92%40syr.edu?anonymous&isanonymous=true){: .button .button--primary target="_blank"}
 
-    
-    
 
-  <form style="margin: 30px 0;" class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/f/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST">
-      <div class="form__group">
-        <label class="form__label screen-reader-text" for="form-name">Your Name</label>
-        <input class="form__input" id="form-name" type="text" name="name" placeholder="Name" required>
-      </div>
-      <div class="form__group">
-        <label class="form__label screen-reader-text" for="form-email">Your Email</label>
-        <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email" required>
-      </div>
-      <div class="form__group">
-        <label class="form__label screen-reader-text" for="form-text">Your Message</label>
-        <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Message" required></textarea>
-      </div>
-      <div class="form__group">
-        <button class="button button--primary" type="submit">Send Message</button>
-      </div>
-</form>
 
 ![Dr. Torrens](/images/John/johnspeaking1.jpg){: .profile-pic style="margin: 20px 0;"}
 
@@ -63,4 +44,22 @@ Discover a range of sample workshops and presentations available from Dr. Torren
 
 ### Finding joy and happiness in business.
 
-*Workshop Description*: People all want the same thing: joy, happiness, love, and a sense of purpose. If everyone wants these things, then the trend toward more anxiety, depression, and less overall enjoyment of life and business is quite curious. Happy people live on average 7 years longer than unhappy people, and for successful business people, this is great news in terms of getting every bit of joy out of the life you worked so hard for. This session will teach you the basics of happiness science and how to claim the joy that is already inside you. Learn what the world's happiest people know and do, and take home practical techniques to feel more happy and joyful every day.
+    
+
+  <form style="margin: 30px 0;" class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/f/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST">
+      <div class="form__group">
+        <label class="form__label screen-reader-text" for="form-name">Your Name</label>
+        <input class="form__input" id="form-name" type="text" name="name" placeholder="Name" required>
+      </div>
+      <div class="form__group">
+        <label class="form__label screen-reader-text" for="form-email">Your Email</label>
+        <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email" required>
+      </div>
+      <div class="form__group">
+        <label class="form__label screen-reader-text" for="form-text">Your Message</label>
+        <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Message" required></textarea>
+      </div>
+      <div class="form__group">
+        <button class="button button--primary" type="submit">Send Message</button>
+      </div>
+</form>
