@@ -1,10 +1,9 @@
-<!-- begin projects -->
+<!-- Begin Projects Section -->
 <section class="section projects animate">
   <div class="container">
     <div class="row">
       <div class="col col-12">
         <div class="contaniner__inner">
-
           <div class="section__info">
             <h2 class="section__title">{{ site.data.settings.projects__settings.projects__title }}</h2>
             {% if site.data.settings.projects__settings.projects__description %}
@@ -15,13 +14,18 @@
           <div class="row">
             {% assign sorted = site.projects | sort: 'date' | reverse %}
             {% for project in sorted limit:6 %}
-            <article class="project col col-4 col-d-6 col-t-12">
+            <article class="project col col-4 col-d-6 col-t-12" 
+                     data-title="{{ project.title }}" 
+                     data-subtitle="{{ project.subtitle }}" 
+                     data-image="{{ project.image }}" 
+                     data-description="{{ project.description }}"
+                     data-url="{{ project.url }}">
               <div class="project__content">
-                <a href="{{ project.url }}" class="project__image">
+                <a href="javascript:void(0);" class="project__image" onclick="openModal(this)">
                   <img class="lazy" data-src="{{ project.image }}" alt="{{ project.title }}">
                 </a>
                 <div class="project__info">
-                  <h3 class="project__title"><a href="{{ project.url }}">{{ project.title }}</a></h3>
+                  <h3 class="project__title">{{ project.title }}</h3>
                   {% if project.subtitle %}
                     <div class="project__subtitle">{{ project.subtitle }}</div>
                   {% endif %}
@@ -40,4 +44,119 @@
     <a href="{{ '/projects' | relative_url }}" class="button button--primary section-button">See all</a>
   </div>
 </section>
-<!-- end projects -->
+<!-- End Projects Section -->
+
+<!-- Modal Structure -->
+<div id="projectModal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body">
+      <h3 class="project-modal-title"></h3>
+      <p class="project-modal-description"></p>
+      <div class="modal-details">
+        <a href="#" class="project-modal-link button button--primary" target="_blank">Link</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- JavaScript for Modal Functionality -->
+<script>
+  function openModal(projectElement) {
+    var modal = document.getElementById("projectModal");
+    var title = projectElement.closest('.project').getAttribute('data-title');
+    var description = projectElement.closest('.project').getAttribute('data-description');
+    var url = projectElement.closest('.project').getAttribute('data-url');
+
+    // Populate modal content
+    document.querySelector('.project-modal-title').innerText = title;
+    document.querySelector('.project-modal-description').innerText = description;
+    document.querySelector('.project-modal-link').setAttribute('href', url);
+
+    // Show modal
+    modal.style.display = "block";
+  }
+
+  // Close the modal when the close button is clicked
+  document.querySelector('.close').onclick = function() {
+    document.getElementById('projectModal').style.display = "none";
+  }
+
+  // Close the modal when clicking outside of it
+  window.onclick = function(event) {
+    var modal = document.getElementById('projectModal');
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  }
+</script>
+
+<!-- CSS for Modal Styling -->
+<style>
+/* Modal styles */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.6); /* darker background */
+}
+
+.modal-content {
+  background-color: #fff;
+  border-radius: 8px;
+  margin: auto;
+  padding: 20px;
+  width: 60%; /* smaller width */
+  max-width: 600px; /* limit maximum size */
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  position: relative;
+  text-align: left;
+}
+
+.close {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: #aaa;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+}
+
+.modal-body {
+  padding: 20px 0;
+}
+
+.project-modal-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.project-modal-description {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.project-modal-link {
+  display: inline-block;
+  font-size: 14px;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 15px;
+  background-color: --button-background-color;
+  border-radius: 4px;
+}
+
+
+</style>

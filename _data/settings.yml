@@ -27,7 +27,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: John Torrens
-  author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
+  author__bio: Dr. John Torrens is an award-winning professor and three-time Inc. 5000 entrepreneur with 25 years of leading high-growth companies. John teaches entrepreneurship and strategy at Syracuse University and serves as the President of Sprout Therapy Group. <a target="_blank" href="/about">Learn more</a> about John's work,  <a target = "_blank" href="/speaker-request/">invite him to speak</a> at your event, or buy his book <a target="_blank" href="https://shorturl.at/PMcVJ"> <i>Lightning in a Bottle How Entrepreneurs Can Harness Their ADHD to Win </i></a>.
   author__avatar: '/images/John/torrensnotiesquare.jpg'
 
 social:
@@ -75,7 +75,8 @@ mailchimp__button__text: Get updates
 # Projects Settings
 projects__settings:
   projects__title: Projects
-  projects__description: Explore John's portfolio of innovative projects, ventures, and achievements
+  projects__description: In addition to being a practicing entrepreneur and teaching entrepreneurship at Syracuse University, Dr. Torrens supports other entrepreneurs as an early stage investor. Here are the companies that he is currently invested in.
+
 
 
 #-------------------------------
