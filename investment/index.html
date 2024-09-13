@@ -1,0 +1,140 @@
+---
+layout: default
+title: My works
+description:
+---
+
+<div class="container">
+  <div class="page-head">
+    <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.projects__settings.projects__title }}{% endif %}</h1>
+    {% if page.description %}
+      <p class="page-description">{{ page.description }}</p>
+    {% else site.data.settings.projects__settings.projects__description %}
+      <p class="page-description">{{ site.data.settings.projects__settings.projects__description }}</p>
+    {% endif %}
+  </div>
+</div>
+
+<div class="projects-page container animate">
+  <div class="row">
+    {% for project in site.projects reversed %}
+      <article class="project col col-4 col-d-6 col-t-12">
+        <div class="project__content">
+          <!-- Trigger modal on click of the image or title -->
+          <a href="javascript:void(0);" onclick="openModal('{{ project.title }}', '{{ project.description }}', '{{ project.link }}', '{{ project.image }}')" class="project__image">
+            <img class="lazy" data-src="{{ project.image }}" alt="{{ project.title }}">
+          </a>
+          <div class="project__info">
+            <h3 class="project__title">
+              <a href="javascript:void(0);" onclick="openModal('{{ project.title }}', '{{ project.description }}', '{{ project.link }}', '{{ project.image }}')">{{ project.title }}</a>
+            </h3>
+            {% if project.subtitle %}
+            <div class="project__subtitle">{{ project.subtitle }}</div>
+            {% endif %}
+          </div>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- Modal Structure -->
+<div id="projectModal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <img id="modalImage" src="" alt="" style="display:block; margin: 0 auto; width: 400px;"/>
+    <h2 id="modalTitle"></h2>
+    <p id="modalDescription"></p>
+    <a id="modalLink" href="#" target="_blank" class="button">Learn More</a>
+  </div>
+</div>
+
+<!-- Modal CSS -->
+<style>
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 60%; /* Make modal wider */
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#modalTitle {
+  text-align: left;
+}
+
+#modalDescription {
+  text-align: left;
+}
+
+#modalImage {
+  margin-bottom: 20px;
+}
+
+.button {
+  background-color: orange;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+</style>
+
+<!-- JavaScript to Handle Modal -->
+<script>
+  // Get the modal
+  var modal = document.getElementById("projectModal");
+
+  // Get the <span> element that closes the modal
+  var span = document.getElementsByClassName("close")[0];
+
+  // Function to open the modal and set content
+  function openModal(title, description, link, image) {
+    document.getElementById("modalTitle").textContent = title;
+    document.getElementById("modalDescription").textContent = description;
+    document.getElementById("modalLink").href = link;  // Use 'link' from YAML file
+    document.getElementById("modalImage").src = image;
+    modal.style.display = "block";
+  }
+
+  // When the user clicks on <span> (x), close the modal
+  span.onclick = function() {
+    modal.style.display = "none";
+  }
+
+  // When the user clicks outside the modal, close it
+  window.onclick = function(event) {
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  }
+</script>
