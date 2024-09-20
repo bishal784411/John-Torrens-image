@@ -1,68 +1,36 @@
-# Hilton – super simple portfolio theme for Jekyll
+# JOHN TORREN'S PERSONAL WEBSITE
 
-The Hilton theme is designed to give you the opportunity to present your works in the most creative and dignified way possible. The theme is very easy to customize and has such necessary sections as Works, Testimonials, Blog, and also has a light and dark mode for easy reading. The theme design is ideal for creative people who appreciate simplicity and functionality.
+This repository contains the codebase for the personal website of **John Torrens**, a professor at Syracuse University. The website serves as a professional hub for showcasing his academic portfolio, research, publications, and public engagements.
 
-* * *
+## Website Overview
 
-### Demo
+The website was developed with the goal of providing an easily navigable, professional, and secure platform that highlights John Torrens’s achievements and ongoing work. It is designed to be flexible and regularly updated to reflect new projects, publications, and other accomplishments.
 
-Check the theme in action [Live Demo](https://hilton-jekyll.netlify.app/) |
-[Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
+---
 
-* * *
+### Features
+- Professional and clean design tailored to academic needs
+- Custom content sections for publications, courses, media mentions, and more
+- Regular updates planned over the next year to keep the website current
+- Backend monitored to ensure ongoing technical reliability
 
-### Theme features
+---
 
-- Works with GitHub Pages (host it for free)
-- Dark and light mode user can select themself
-- No jQuery, only vanilla JS
-- 100% responsive Design
-- Clean Code
-- Optimized for mobile devices
-- Section Blog
-- Section Works
-- Section Testimonials
-- Super fast performance ⚡⚡⚡
-- Social sharing buttons
-- Scroll to top button
-- Syntax highlighting (supports the Jekyll syntax highlighter)
-- Compatible with modern browsers
-- Medium style image zoom
-- Image Lazy loading
-- Image gallery
-- Custom logo support
-- Supports contact form (Formspree)
-- Supports MailChimp newsletter
-- Supports Disqus comments
-- Supports Google Analytics
-- Ionicons icons
-- Free Google Fonts
-- Free Updates & Support
+## Built By
 
-* * *
+This website was built and is maintained by **Relevant Research**, a company that specializes in supporting academics through website development, data analysis, and research impact strategies. We understand the specific needs of academics and are dedicated to providing solutions that showcase their work effectively.
 
-### Installation
+### Theme Credit
 
-#### Installing Ruby & Jekyll
+The website utilizes a theme originally designed by **[Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)**. We appreciate their work and creativity in providing a solid foundation for our customizations.
 
-If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
+---
 
-* * *
+### Learn More
 
-### Deployment
+For more information about Relevant Research and our services, please visit [Relevant Research Website](https://www.relevant-research.com). We offer a range of services, including:
+- Personal website development for academics and researchers
+- Data visualization and analysis
+- Research support and public impact strategies
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
-
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
-
-* * *
-
-### Documentation
-
-Before using the Hilton theme, please read the attached documentation.
-
-* * *
-
-### Support
-
-<p>If you have any questions, please feel free to contact me by mail <a href="mailto:hi.artemsheludko@gmail.com">Contact</a><p>
+To get in touch or inquire about services, please contact us at [info@relevant-research.com](mailto:info@relevant-research.com).
