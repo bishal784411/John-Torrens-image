@@ -27,7 +27,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: John Torrens
-  author__bio: Dr. John Torrens is an award-winning professor and three-time Inc. 5000 entrepreneur with 25 years of leading high-growth companies. John teaches entrepreneurship and strategy at Syracuse University and serves as the President of Sprout Therapy Group. <a target="_blank" href="/about">Learn more</a> about John's work,  <a target = "_blank" href="/speaker-request/">invite him to speak</a> at your event, or buy his book <a target="_blank" href="https://shorturl.at/PMcVJ"> <i>Lightning in a Bottle How Entrepreneurs Can Harness Their ADHD to Win </i></a>.
+  author__bio: Dr. John Torrens is an award-winning professor and three-time Inc. 5000 entrepreneur with 25 years of leading high-growth companies. John teaches entrepreneurship and strategy at Syracuse University and serves as the President of Sprout Therapy Group. <a target="_blank" href="/about">Learn more</a> about John's work,  <a target = "_blank" href="/speaker-request/">invite him to speak</a> at your event, or buy his book <a target="_blank" href="https://shorturl.at/PMcVJ"> <i>Lightning in a Bottle How Entrepreneurs Can Harness Their ADHD to Win.</i></a>
   author__avatar: '/images/John/torrensnotiesquare.jpg'
 
 social:
@@ -54,13 +54,13 @@ book:
   book__title: >
     Lightening in Bottle: How Entrepreneurs Can Harness Their ADHD to Win
   book__description: >
-    This book will help entrepreneurs, (or those who love them), discover how to harness their ADHD for maximum creativity, focus, and productivity, while learning how to manage the downsides and eliminate obstacles, so that they can achieve even more success. <a href= "https://www.amazon.com/Lightning-Bottle-Entrepreneurs-Harness-Their/dp/B08SGMZZ6Y/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.N9_ihbq4RpjcCMspezYnAw.dwnwERJrNn5DvxA5xX-EqhMyKD4atUtTPI8zjHVoZ7k&qid=1721567840&sr=1-1"> Get it today</a>.
+    This book will help entrepreneurs (or those who love them) discover how to harness their ADHD for maximum creativity, focus, and productivity, while learning how to manage the downsides and eliminate obstacles, so that they can achieve even more success. <a href= "https://www.amazon.com/Lightning-Bottle-Entrepreneurs-Harness-Their/dp/B08SGMZZ6Y/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.N9_ihbq4RpjcCMspezYnAw.dwnwERJrNn5DvxA5xX-EqhMyKD4atUtTPI8zjHVoZ7k&qid=1721567840&sr=1-1"> Get it today</a>.
   book__image: '/images/John/lighteningsquare.png'
 
 ted:
   ted__title: Watch John’s TEDx Talk
   ted__description: >
-    Did you know that 62% of highly successful entrepreneurs have traits consistent with ADHD? Is this a coincidence, or is there more to the story? In his talk, In this fascinating talk, John Torrens uses research and his years of experience to show how this is no mere coincidence — ADHD can be a "entrepreneur's superpower."
+    Did you know that 62% of highly successful entrepreneurs have traits consistent with ADHD? Is this a coincidence, or is there more to the story? In this fascinating talk, John Torrens uses research and his years of experience to show how this is no mere coincidence — ADHD can be a "entrepreneur's superpower."
   ted__url: 'https://www.youtube.com/embed/XdT4DIiX7Nk?si=yEhQJzimROnFON4k'
 
 #-------------------------------
