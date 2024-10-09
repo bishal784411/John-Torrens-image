@@ -46,7 +46,7 @@ Discover a range of sample workshops and presentations available from Dr. Torren
 
     
 
-  <form style="margin: 30px 0;" class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/f/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST">
+  <form style="margin: 30px 0;" class="form" action="https://script.google.com/macros/s/AKfycbwamkEqQTGjimlYPX33Zc4TWXGsFZHhdesSSQVizKU/dev" method="POST">
       <div class="form__group">
         <label class="form__label screen-reader-text" for="form-name">Your Name</label>
         <input class="form__input" id="form-name" type="text" name="name" placeholder="Name" required>
@@ -57,7 +57,7 @@ Discover a range of sample workshops and presentations available from Dr. Torren
       </div>
       <div class="form__group">
         <label class="form__label screen-reader-text" for="form-text">Your Message</label>
-        <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Message" required></textarea>
+        <textarea class="form__input" id="form-text" name="message" rows="10" placeholder="Message" required></textarea>
       </div>
       <div class="form__group">
         <button class="button button--primary" type="submit">Send Message</button>
