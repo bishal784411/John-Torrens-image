@@ -9,7 +9,7 @@ See below for a list of announcements and updates from the desk of Dr. Torrens.
 # 2024
 
 Whitman School Business Programs Highly Ranked for Entrepreneurship in 2025 Princeton Review. ([Read announcement here](https://news.syr.edu/blog/2024/11/15/whitman-school-business-programs-highly-ranked-for-entrepreneurship-in-2025-princeton-review/).)
-> “These rankings are a quantifiable reflection of the quality of our program and our commitment to giving our students experiences that continue to spark their entrepreneurial spirit,” says John Torrens, deputy department chair and professor of entrepreneurial practice. “Our faculty are truly committed to helping our students bring their ideas to life through mentoring, coaching and sharing their own professional experiences in this space. In addition, students have many opportunities to obtain funding through our various competitions, like the Orange Tank business pitch competition and our Panasci Business Plan Competition, many of which are supported by generous alumni who appreciate the work we do at the Whitman School.”
+> “These rankings are a quantifiable reflection of the quality of our program and our commitment to giving our students experiences that continue to spark their entrepreneurial spirit,” says John Torrens, deputy department chair and professor of entrepreneurial practice.
 
 Dr. Torrens discusses entrepreneurs and PhDs with ADHD with host Dino Cattaneo on the podcast Everyday Leadership with Everyday People. Visit the podcast [episode online](https://al4ep.notion.site/Episode-152-John-Torrens-35bc271052164b36b68a0e4444ddf889
 ), or on [Apple Podcasts](https://apple.co/3AnV2YM) or [Spotify](https://spoti.fi/4dCpUmC).
