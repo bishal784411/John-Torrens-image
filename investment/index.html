@@ -22,7 +22,7 @@ description:
         <div class="project__content">
           <!-- Trigger modal on click of the image or title -->
           <a href="javascript:void(0);" onclick="openModal('{{ project.title }}', '{{ project.description }}', '{{ project.link }}', '{{ project.image }}')" class="project__image">
-            <img class="lazy" data-src="{{ project.image }}" alt="{{ project.title }}">
+            <img class="lazy" data-src="{{ project.image }}" alt="{{ project.image_alt }}">
           </a>
           <div class="project__info">
             <h3 class="project__title">

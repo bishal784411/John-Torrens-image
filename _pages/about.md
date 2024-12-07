@@ -15,4 +15,4 @@ Dr. Torrens is a TEDx speaker ("[ADHD as an Entrepreneur’s Superpower](https:/
 
 He is an active member of the [Young Presidents Organization](https://www.ypo.org/) (YPO) and served in multiple volunteer leadership positions including a term on the International Board of Directors (2013-2015).
 
-Learn more about Dr. Torren's work, see John's many [business investments](https://johnmtorrens.com/investments/), list of [announcements](https://johntorrens.relevant-research.com/announcements/), visit [John's faculty page](https://whitman.syracuse.edu/faculty-and-research/faculty-staff-directory/details/jtorrens), or [follow him on LinkedIn](https://www.linkedin.com/in/johnmtorrens/).
+Learn more about Dr. Torrens' work, see his [business investments](https://johnmtorrens.com/investments/) or [announcements](https://johntorrens.relevant-research.com/announcements/), visit [his faculty page](https://whitman.syracuse.edu/faculty-and-research/faculty-staff-directory/details/jtorrens), or [follow him on LinkedIn](https://www.linkedin.com/in/johnmtorrens/).
