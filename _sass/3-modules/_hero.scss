@@ -125,7 +125,11 @@
   }
 
   a {
-    color: var(--brand-color);
+    color: blue;
+    border-bottom: 1px solid var(--border-color);
+  }
+  a:hover{
+    border-bottom-color: var(--link-color-hover);
   }
 }
 
