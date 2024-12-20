@@ -85,14 +85,6 @@
     align-content: center;
 }
 
-@media (max-width: 1080px) {
-    .card {
-        width: 320px;
-    }
-    .card-metadata {
-        gap: 54px !important;
-    }
-}
 
 details {
     width: 100%;
@@ -134,4 +126,11 @@ details {
     margin-right: 8px;
   }
 
-  
+  @media (max-width: 1080px) {
+    .card {
+        width: 320px;
+    }
+    .card-metadata {
+        gap: 54px;
+    }
+}
