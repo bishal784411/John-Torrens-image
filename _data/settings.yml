@@ -20,8 +20,6 @@ menu__settings:
       url: '/announcements/'
     - title: 'Investments'
       url: '/investment/'
-    - title: 'Podcast'
-      url: '/podcast/'
 
 
 
