@@ -1,0 +1,134 @@
+.full-podcast-button {
+    display: inline-flex;
+    align-items: center;
+    background-color: var(--full-podcast-button);
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 12px;  /* Adjust padding for better fit */
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    white-space: nowrap;  /* Prevent text wrapping */
+    margin-top: 0.5em;
+}
+
+.full-podcast-button i {
+    margin-right: 8px;  /* Space between the icon and text */
+}
+
+.full-podcast-button:hover {
+    background-color: #ff6600;
+    transform: scale(1.05);
+}
+.card {
+    width: 350px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.card-content {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centers the content horizontally */
+    justify-content: center; /* Ensures button is centered */
+}
+
+.card-title {
+    font-size: 1.2em;
+    margin: 0 0 10px;
+    color: var(--card-title);
+}
+
+.card-date, .card-episode {
+    font-size: 0.9em;
+    color: #777;
+    margin-bottom: 10px;
+    align-self: flex-start;
+}
+
+.containerr {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.card-description {
+    font-size: 1em;
+    color: #555;
+    margin-bottom: 15px;
+}
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+    .audio {
+        align-self: center;
+    }
+}
+
+.card-content .full-podcast-button {
+    display: flex;
+    align-content: center;
+}
+
+@media (max-width: 1080px) {
+    .card {
+        width: 320px;
+    }
+}
+
+details {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  details summary {
+    cursor: pointer;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+
+  details p {
+    margin: 8px 0 0 0;
+    padding: 0;
+  }
+
+  .card-metadata {
+    display: flex;
+    justify-content: space-between;
+    gap: 80px;
+}
+
+.card-guest {
+    font-size: 1.1rem;
+    font-weight: bold;
+    /* margin-top: 10px; */
+    color: #4CAF50;
+    margin-bottom: 10px;
+    align-self: flex-start;
+}
+  
+  .guest-badge {
+    background-color: #FF9800; /* A bright orange badge */
+    padding: 5px 10px;
+    border-radius: 50px;
+    font-size: 0.9rem;
+    color: white;
+    margin-right: 8px;
+  }
+
+  

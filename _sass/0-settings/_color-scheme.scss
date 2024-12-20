@@ -9,6 +9,7 @@
   --gray: #767676;
   --dark: #181818;
   --dark-blue: #1e2740;
+  --blue: #0066cc;
 
   --background-color: var(--white);
   --background-alt-color: var(--light-gray);
@@ -32,6 +33,10 @@
   --tr-color: var(--light-gray);
 
   --syntax-highlighting-background: #f3f3f3;
+
+  --full-podcast-button: var(--blue);
+
+  --card-title: #333;
 }
 
 :root[dark] {
@@ -63,4 +68,6 @@
   --tr-color: #080b12;
 
   --syntax-highlighting-background: #080b12;
+
+  --card-title: var(--light-gray);
 }
