@@ -20,6 +20,8 @@ layout: default
       <div class="containerr">
         {% for podcast in site.data.audio %}
           <div class="card">
+            <div class="episode-label"> Epi {{ podcast.epi_num }}</div>
+            <div class="date-label"> {{ podcast.date }}</div>
             <img src="{{ podcast.image }}" alt="{{ podcast.title }}">
             <div class="card-content">
               <h3 class="card-title">{{ podcast.title }}</h3>
@@ -28,19 +30,32 @@ layout: default
                     <span class="guest-badge">Guest:</span> {{ podcast.guest }}
                   </p>
                 {% endif %}
-              <div class="card-metadata">
+              <!-- <div class="card-metadata">
                 <p class="card-date">{{ podcast.date }}</p>
                 <p class="card-episode">Episode {{ podcast.epi_num }}</p>
-              </div>
+              </div> -->
               
               <p class="card-description">{{ podcast.description }}</p>
               <audio controls>
                 <source src="{{ podcast.audio_file }}" type="audio/mpeg">
                 Your browser does not support the audio element.
               </audio>
-              <a href="{{ podcast.external_link }}" class="full-podcast-button">
+              <!-- <a href="{{ podcast.external_link }}" class="full-podcast-button">
                 <i class="fas fa-microphone"></i> Listen to Full Podcast
-              </a>
+              </a> -->
+              <div class="podcast-links">
+                <span>Play it on</span>
+                <a href="{{ podcast.spotify }}" target="_blank" class="podcast-button spotify-button">
+                    <i class="fab fa-spotify"></i>
+                </a>
+                <a href="{{ podcast.apple }}" target="_blank" class="podcast-button apple-button">
+                    <i class="fab fa-apple"></i>
+                </a>
+              </div>
+            
+            
+            
+
             </div>
           </div>
         {% endfor %}
