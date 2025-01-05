@@ -1,3 +1,11 @@
+- title: "Understanding Entrepreneurial Wellbeing with Johan Wiklund"
+  date: "Jan 03, 2025"
+  epi_num: "10"
+  description: "Johan Wiklund discusses wellbeing in entrepreneurship, focusing on emotional resilience, neurodiversity (e.g., ADHD, dyslexia), and the profound effects of scale-ups' impact on employee health and overall well-being. He contributes extensively to the field with his insights and research."
+  audio_file: "/Podcast_episodes/epi10.mp3"
+  spotify: "https://creators.spotify.com/pod/show/john40018/episodes/Understanding-Entrepreneurial-Wellbeing-with-Johan-Wiklund-e2rj5pl"
+  apple: "https://podcasts.apple.com/in/podcast/understanding-entrepreneurial-wellbeing-with-johan/id1777325689?i=1000682529658"
+  image: "/images/podcast-images/epi10.png"
 
 
 - title: "Integrative Medicine Approaches for Entrepreneurial Health with Carolyn McAuliffe, PhD, FNP"
@@ -7,7 +15,7 @@
   audio_file: "/Podcast_episodes/epi9.mp3"
   spotify: "https://creators.spotify.com/pod/show/john40018/episodes/Integrative-Medicine-Approaches-for-Entrepreneurial-Health-with-Carolyn-McAuliffe--PhD--FNP-e2rj5dk"
   apple: "https://podcasts.apple.com/ge/podcast/integrative-medicine-approaches-for-entrepreneurial/id1777325689?i=1000681851826"
-  image: "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo400/41992369/41992369-1730298012259-dee3e20cd2393.jpg"
+  image: "/images/podcast-images/epi9.png"
 
 
 - title: "The Gateway to Holistic Wellness for Entrepreneurs with Laura Villanti"
@@ -17,7 +25,7 @@
   audio_file: "/Podcast_episodes/epi8.mp3"
   spotify: "https://creators.spotify.com/pod/show/john40018/episodes/The-Gateway-to-Holistic-Wellness-for-Entrepreneurs-with-Laura-Villanti-e2rj5kd"
   apple: "https://podcasts.apple.com/ge/podcast/the-gateway-to-holistic-wellness-for-entrepreneurs/id1777325689?i=1000681120208"
-  image: "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo400/41992369/41992369-1730298012259-dee3e20cd2393.jpg"
+  image: "/images/podcast-images/epi8.png"
 
 
 - title: "From Corporate Life to Spiritual Entrepreneurship with Lindsay Mastrogiavanni"
@@ -27,7 +35,7 @@
   audio_file: "/Podcast_episodes/epi7.mp3"
   spotify: "https://creators.spotify.com/pod/show/john40018/episodes/From-Corporate-Life-to-Spiritual-Entrepreneurship-with-Lindsay-Mastrogiavanni-e2qlune"
   apple: "https://podcasts.apple.com/ge/podcast/from-corporate-life-to-spiritual-entrepreneurship-with/id1777325689?i=1000680259942"
-  image: "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo400/41992369/41992369-1730298012259-dee3e20cd2393.jpg"
+  image: "/images/podcast-images/epi7.png"
 
 - title: "The ROI of Health and Fitness for Entrepreneurs with Timothy Jones"
   date: "Dec 6, 2024"
@@ -36,7 +44,7 @@
   audio_file: "/Podcast_episodes/epi6.mp3"
   apple: "https://podcasts.apple.com/ge/podcast/the-roi-of-health-and-fitness-for/id1777325689?i=1000679468386"
   spotify: "https://creators.spotify.com/pod/show/john40018/episodes/The-ROI-of-Health-and-Fitness-for-Entrepreneurs-with-Timothy-Jones-e2qlui3"
-  image: "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo400/41992369/41992369-1730298012259-dee3e20cd2393.jpg"
+  image: "/images/podcast-images/epi6.png"
   
 
 - title: "The Spiritual Is Scientific with Rev. Tony Senf"
@@ -46,7 +54,7 @@
   audio_file: "/Podcast_episodes/epi5.mp3"
   apple: "https://podcasts.apple.com/ge/podcast/the-spiritual-is-scientific-with-rev-tony-senf/id1777325689?i=1000678635455"
   spotify: "https://creators.spotify.com/pod/show/john40018/episodes/The-Spiritual-Is-Scientific-with-Rev--Tony-Senf-e2qlufh"
-  image: "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo400/41992369/41992369-1730298012259-dee3e20cd2393.jpg"
+  image: "/images/podcast-images/epi5.png"
 
 - title: "Stoicism: Timeless Lessons for Modern Entrepreneurs with Ken Davenport"
   date: "Nov 22, 2024"
@@ -55,7 +63,7 @@
   audio_file: "/Podcast_episodes/epi4.mp3"
   apple: "https://podcasts.apple.com/ge/podcast/stoicism-timeless-lessons-for-modern-entrepreneurs/id1777325689?i=1000677894433"
   spotify: "https://creators.spotify.com/pod/show/john40018/episodes/Stoicism-Timeless-Lessons-for-Modern-Entrepreneurs-with-Ken-Davenport-e2qlua9"
-  image: "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo400/41992369/41992369-1730298012259-dee3e20cd2393.jpg"
+  image: "/images/podcast-images/epi4.png"
 
 - title: "Building Mental Muscles™ with Olivia Bowser"
   date: "Nov 15, 2024"
@@ -64,7 +72,7 @@
   audio_file: "/Podcast_episodes/epi3.mp3"
   apple: "https://podcasts.apple.com/ge/podcast/building-mental-muscles-with-olivia-bowser/id1777325689?i=1000677076205"
   spotify: "https://creators.spotify.com/pod/show/john40018/episodes/Building-Mental-Muscles-with-Olivia-Bowser-e2qlu7q"
-  image: "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo400/41992369/41992369-1730298012259-dee3e20cd2393.jpg"
+  image: "/images/podcast-images/epi3.png"
 
 - title: "Sleep is the Ultimate ROI with Dr. Elie Gottlieb"
   date: "Nov 8, 2024"
@@ -73,7 +81,7 @@
   audio_file: "/Podcast_episodes/epi2.mp3"
   apple: "https://podcasts.apple.com/ge/podcast/sleep-is-the-ultimate-roi-with-dr-elie-gottlieb/id1777325689?i=1000676205810"
   spotify: "https://creators.spotify.com/pod/show/john40018/episodes/Sleep-is-the-Ultimate-ROI-with-Dr--Elie-Gottlieb-e2qkj5j"
-  image: "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo400/41992369/41992369-1730298012259-dee3e20cd2393.jpg"
+  image: "/images/podcast-images/epi2.png"
 
 - title: "Why Entrepreneurs Need a Holistic Approach - An Introduction"
   date: "Nov 1, 2024"
@@ -82,4 +90,5 @@
   audio_file: "/Podcast_episodes/episode1.mp3"
   apple: "https://podcasts.apple.com/ge/podcast/why-entrepreneurs-need-a-holistic-approach/id1777325689?i=1000676205942"
   spotify: "https://creators.spotify.com/pod/show/john40018/episodes/Why-Entrepreneurs-Need-a-Holistic-Approach---An-Introduction-e2qcbor"
-  image: "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo400/41992369/41992369-1730298012259-dee3e20cd2393.jpg"
+  image: "/images/podcast-images/epi1.png"
+  
