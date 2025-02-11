@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Rowdies:wght@300;400;700&display=swap');
+
+@font-face {
+    font-family: 'IvyPresto Display';
+    src: url('fonts/ivy-presto-display.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+
+section.section.oval-image-image.animate {
+    padding: 0;
+    margin-bottom: 60px;
+}
+
+img.image {
+    width: 100%;
+    height: 100%;
+}
+
+
+a.logo__link {
+    display: none;
+    color: var(--brand-color);
+    letter-spacing: 0.04em;
+}
+
+@media (min-width: $desktop) {
+    a.logo__link {
+        display: none;
+
+    }
+}
+
+
+
+/* For the left-right section of homepage */
+
+.left-right {
+    display: flex;
+    max-width: 100%;
+    gap: 18px;
+}
+
+.left,
+.right {
+    width: 100%;
+}
+
+.left {
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.right {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.highlight1 {
+    font-family: "Rowdies", serif;
+    font-weight: 700;
+    font-size: 26px;
+    color: var(--brand-color);
+    font-style: normal;
+}
+
+.italic {
+    font-style: italic;
+    color: #c5005a;
+}
+
+.right a {
+    font-weight: 500;
+    border-bottom: 1px solid var(--border-color);
+    color: blue;
+
+    &:hover {
+
+        border-bottom-color: var(--link-color-hover);
+    }
+}
+
+.right p {
+    margin-bottom: 25px;
+}
+
+@media (max-width: 768px) {
+
+    .left-right {
+        display: flex;
+        flex-direction: column;
+    }
+    .right p {
+        margin-bottom: 10px;
+    }
+    .left p{
+        margin-bottom: 10px;
+    }
+
+    .toggle-theme{
+        position: absolute;
+        left: 24px;
+    }
+}

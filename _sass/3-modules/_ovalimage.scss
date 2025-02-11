@@ -1,0 +1,198 @@
+.oval-container {
+    width: 1239px;
+    height: 648px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    clip-path: ellipse(50% 50% at 50% 50%);
+    position: relative;
+    transform: rotate(-12deg);
+}
+
+.oval-image {
+    width: 100%;
+    object-fit: fill;
+    margin-top: 4px;
+    transform: rotate(12deg);
+    margin-left: 11px;
+}
+
+.overlay-text {
+    position: absolute;
+    top: 106px;
+    left: 116px;
+    background: transparent;
+    color: var(--brand-color);
+    padding: 12px 18px;
+    border-radius: 8px;
+    font-size: 60px;
+    font-weight: bold;
+    z-index: 10;
+}
+
+/* Rotating Text Effect */
+.rotating-text {
+    position: absolute;
+    bottom: 89px;
+    right: 70px;
+    background: transparent; /* Fully transparent background */
+    color: var(--brand-color); /* Uses your theme color */
+    border-radius: 8px;
+    font-size: 60px; /* Increased font size */
+    font-weight: bold;
+    z-index: 10;
+    width: 400px;
+    height: 69px; /* Fixed height */
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+/* Wrapper for sliding effect */
+.text-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 376px; /* 69px * 4 words */
+    animation: slideText 8s infinite ease-in-out; /* Adjusted timing */
+}
+
+/* Ensure each span takes up the same height */
+.text-wrapper span {
+    height: 89px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Keyframes for vertical sliding */
+@keyframes slideText {
+    0%, 20% { transform: translateY(45px); } 
+    25%, 45% { transform: translateY(-40px); } /* Second word */
+    50%, 70% { transform: translateY(-128px); } /* Third word */
+    75%, 95% { transform: translateY(-215px); } /* Fourth word */
+    100% { transform: translateY(45px); }   /* Loop back */
+}
+
+
+@media (max-width: 1080px){
+
+    .oval-image{
+        transform: scale(1.2) rotate(12deg);
+    }
+    
+    .overlay-text {
+        top: 20px;
+        left: 57px;
+        font-size: 47px;
+        display: block;
+        position: absolute;
+        padding: 5px 18px;
+    }
+    .oval-container {
+        width: 701px;
+        height: 412px;
+    }
+
+    .rotating-text{
+        bottom: 0px;
+        right: 31px;
+    }
+
+    .toggle-theme{
+        position: absolute;
+        left: 24px;
+    }
+}
+
+
+
+@media (max-width: 768px){
+    .oval-container {
+        width: 395px;
+        height: 249px;
+    }
+    .oval-image {
+        transform: scale(1.2) rotate(12deg);
+    }
+    .rotating-text {
+        bottom: -43px;
+        right: 20px;
+        font-size: 37px;
+        width: 236px;
+    }
+
+    .overlay-text {
+        font-family: "Rowdies", serif;
+        top: 20px;
+        left: 57px;
+        font-size: 45px;
+        display: block;
+        position: inherit;
+        padding: 5px 18px;
+    }
+
+    @keyframes slideText {
+        0%, 20% { transform: translateY(60px); }
+        25%, 45% { transform: translateY(-15px); } /* Second word */
+        50%, 70% { transform: translateY(-90px); } /* Third word */
+        75%, 95% { transform: translateY(-165px); } /* Fourth word */
+        100% { transform: translateY(60px); }   /* Loop back */
+    }
+
+    .col.col-12.oval{
+        padding: 0;
+    }
+
+    .highlight1{
+        font-size: 41px;
+    }
+}
+
+
+/****************************************static logos************************************/
+/* Wrapper for logos */
+.logo-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px; 
+}
+
+/* Logo item styles */
+.logo-item {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-image {
+    max-width: 90%;
+    max-height: 90%;
+    object-fit: contain;
+    transition: transform 0.3s ease;
+}
+
+/* Hover effect for better user interaction */
+.logo-item:hover .logo-image {
+    transform: scale(1.1); /* Slight zoom effect */
+}
+
+/* Optional responsive adjustments */
+@media (max-width: 768px) {
+    .logo-wrapper {
+        justify-content: center;
+    }
+
+    .logo-item {
+        width: 80px;
+        height: 80px;
+    }
+}
+
+
+

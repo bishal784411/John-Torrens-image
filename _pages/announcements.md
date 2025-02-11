@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Announcements
-permalink: /announcements/
 ---
 
 See below for a list of announcements and updates from Dr. Torrens.
